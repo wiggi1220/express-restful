@@ -1,0 +1,16 @@
+{
+  "name": "myExpress",
+  "version": "1.0.0",
+  "description": "we dont need a description",
+  "main": "index.js",
+  "author": "Wiggy",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "faker": "^4.1.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
